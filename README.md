@@ -6,7 +6,7 @@ The project defines a star rating component like the following:
 
 ![](https://raw.githubusercontent.com/andychiare/rating-stencil-component/master/img/starRating.png)
 
-It allows to set your rating value, to capture the event of assigning a new rating value and to programmatically access the current rating value.
+It allows you to set your rating value and to programmatically handle the component properties.
 
 # Using the component
 
