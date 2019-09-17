@@ -4,7 +4,7 @@ This is an example project showing how to build a rating Web component by using 
 
 The project defines a star rating component like the following:
 
-![](https://raw.githubusercontent.com/andychiare/rating-stencil-component/master/img/starRating.png)
+![](https://raw.githubusercontent.com/andychiare/rating-component/master/starRating.png)
 
 It allows you to set your rating value and to programmatically handle the component properties.
 
